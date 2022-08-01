@@ -1,0 +1,7 @@
+verificaciones_mob.php
+coprogreso
+verificaciones_mob
+NAO
+form
+verificaciones
+LigMd5

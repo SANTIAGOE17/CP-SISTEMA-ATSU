@@ -1,0 +1,14 @@
+.css_fecha_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_grid_line {vertical-align: top;text-align: center;}
+.css_accion_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_accion_grid_line {vertical-align: top;text-align: right;}
+.css_observacion_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_observacion_grid_line {vertical-align: top;text-align: right;}
+.css_usuario_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_grid_line {vertical-align: top;text-align: right;}
+.css_id_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line {vertical-align: top;text-align: right;}
+.css_tipo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_grid_line {vertical-align: top;text-align: right;}
+.css_idmovimiento_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idmovimiento_grid_line {vertical-align: top;text-align: right;}

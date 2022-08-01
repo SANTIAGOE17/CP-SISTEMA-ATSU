@@ -1,0 +1,11 @@
+.scGridHeaderFont { text-align: left }
+.scGridBlock { text-align: left }
+.scGridLabelVert { text-align: left }
+.scGridLabelFont { text-align: left }
+.scGridSummaryLabel { text-align: left }
+.scGridSummaryLineEven { text-align: right }
+.scGridSummaryLineOdd { text-align: right }
+.scGridSummaryGroupbyVisible { text-align: left }
+.scGridSummaryGroupbyInvisible { text-align: left }
+.scGridSummaryGroupbySeq { text-align: center }
+.SumoSelect > .optWrapper.multiple > .MultiControls { text-align: css_summarysearch_multiselectbuttonline_text_align }
